@@ -1,0 +1,25 @@
+#top {
+    width: 100%;
+}
+
+div {
+    background-color: #737373;
+    box-sizing: border-box;
+    margin-top: -5px;
+    height: 400px;;
+}
+
+div img {
+    width: 20%;
+    border-radius: 50%;
+    border: 10px solid #444444;
+    margin-top: 50px;
+    margin-left: 130px;
+}
+
+p {
+    font-family: sans-serif;
+    text-align: center;
+    margin-top: 10px;
+}
+
